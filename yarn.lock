@@ -735,6 +735,11 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
+postman@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/postman/-/postman-0.2.0.tgz#73cb3634336d6cf37b976826561204157501e04e"
+  integrity sha1-c8s2NDNtbPN7l2gmVhIEFXUB4E4=
+
 proxy-addr@~2.0.5:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/proxy-addr/-/proxy-addr-2.0.6.tgz#fdc2336505447d3f2f2c638ed272caf614bbb2bf"
